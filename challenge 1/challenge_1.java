@@ -1,28 +1,28 @@
 public class challenge_1 {
     public static void main(String[] args) {
         
-        byte exampleByte = 100;
-        System.out.println("Byte value: " + exampleByte);
+        byte examplebyte = 100;
+        System.out.println("byte value: " + examplebyte);
 
-        short exampleShort = 3200;
-        System.out.println("Short value: " + exampleShort);
+        short exampleshort = 3200;
+        System.out.println("short value: " + exampleshort);
 
-        int exampleInt = 2147483647;
-        System.out.println("Int value: " + exampleInt);
+        int exampleint = 2147483647;
+        System.out.println("int value: " + exampleint);
 
-        long exampleLong = 9223372036854775807L;
-        System.out.println("Long value: " + exampleLong);
+        long examplelong = 9223372036854775807L;
+        System.out.println("long value: " + examplelong);
 
-        float exampleFloat = 8.11f;
-        System.out.println("Float value: " + exampleFloat);
+        float examplefloat = 8.11f;
+        System.out.println("float value: " + examplefloat);
 
-        double exampleDouble = 3.141592653589793;
-        System.out.println("Double value: " + exampleDouble);
+        double exampledouble = 3.141592653589793;
+        System.out.println("double value: " + exampledouble);
 
-        char exampleChar = 'X';
-        System.out.println("Char value: " + exampleChar);
+        char examplechar = 'X';
+        System.out.println("char value: " + examplechar);
 
-        boolean exampleBoolean = true;
-        System.out.println("Boolean value: " + exampleBoolean);
+        boolean exampleboolean = true;
+        System.out.println("boolean value: " + exampleboolean);
     }
 }
