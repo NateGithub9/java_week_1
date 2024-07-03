@@ -29,3 +29,5 @@ public class challenge_2 {
         System.out.println("String value: " + exampleString);
     }
 }
+
+// Les objects ont une majuscule
