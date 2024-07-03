@@ -1,28 +1,31 @@
 public class challenge_2 {
     public static void main(String[] args) {
         
-        byte exampleByte = 100;
+        Byte exampleByte = 100;
         System.out.println("Byte value: " + exampleByte);
 
-        short exampleShort = 3200;
+        Short exampleShort = 3200;
         System.out.println("Short value: " + exampleShort);
 
-        int exampleInt = 2147483647;
+        Integer exampleInt = 2147483647;
         System.out.println("Int value: " + exampleInt);
 
-        long exampleLong = 9223372036854775807L;
+        Long exampleLong = 9223372036854775807L;
         System.out.println("Long value: " + exampleLong);
 
-        float exampleFloat = 8.11f;
+        Float exampleFloat = 8.11f;
         System.out.println("Float value: " + exampleFloat);
 
-        double exampleDouble = 3.141592653589793;
+        Double exampleDouble = 3.141592653589793;
         System.out.println("Double value: " + exampleDouble);
 
-        char exampleChar = 'X';
+        Character exampleChar = 'X';
         System.out.println("Char value: " + exampleChar);
 
-        boolean exampleBoolean = true;
+        Boolean exampleBoolean = true;
         System.out.println("Boolean value: " + exampleBoolean);
+
+        String exampleString = "dad & mom";
+        System.out.println("String value: " + exampleString);
     }
 }
