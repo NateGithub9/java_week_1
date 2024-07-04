@@ -9,7 +9,7 @@ public class challenge_3 {
             randomNumbers[i] = random.nextInt(100); // Random integers between 0 and 99
         }
 
-        System.out.println("Numbers smaller than 10:"); //loop
+        System.out.println("Nombres plus petits que 10:"); //loop
         for (int i = 0; i < maxSize; i++) {
             if (randomNumbers[i] < 10) {
                 System.out.println(randomNumbers[i]);
